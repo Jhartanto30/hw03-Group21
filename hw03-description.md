@@ -9,7 +9,7 @@
 
 **Deliverable:** for this assignment, your github repository should contain:
 
-- One notebook PER QUESTION that includes code for plots and simulations, along with your written responses and discussion. Please remember to use markdown headings for each section/subsection so the entire document is readable. All figures should be included in both the notebook and in a separape image file inside a folder `outputs`.
+- One notebook PER QUESTION that includes code for plots and simulations, along with your written responses and discussion. Please remember to use markdown headings for each section/subsection so the entire document is readable. All figures should be included in both the notebook and in a separate image file inside a folder `outputs`.
 
 - Complete the contribution statement  
 
